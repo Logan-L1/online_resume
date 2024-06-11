@@ -47,3 +47,12 @@ footer {
     background-color: #111111;
     border-top: 2px solid #00FF00;
 }
+/* Link Styles */
+a {
+    color: #00FF00;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
